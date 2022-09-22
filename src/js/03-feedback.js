@@ -20,14 +20,13 @@ formRef.addEventListener('input', throttedOnFormInput);
 
 
 function initPage() {
+    const parseData = storage.load(LOCAL_STORAGE);
     if (!LOCAL_STORAGE) {
         return;
     }
-    const parseData = storage.load(LOCAL_STORAGE);
-
     Object.entries(parseData).forEach(( [name, value] ) => {
         formRef.elements[name].value = value;
-    });;
+    });
 }
 
 
