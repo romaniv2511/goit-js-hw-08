@@ -107,7 +107,7 @@
 63D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@msgpackr-extract133083291285397580 1
 77D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\workers\src\cpuCount.js133083250285462744 0
 92D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133083250283250184 0
-37D:\Studing_IT\GOIT\goit-js-hw-08\dist133083405403377667 1
+37D:\Studing_IT\GOIT\goit-js-hw-08\dist133083413435596288 1
 90D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@vimeo\player\src\lib\compatibility-check.js133083291285207600 0
 66D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\posthtml-render\dist133083250284016025 1
 73D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@lezer\common\dist\mix.d.ts133083250284822741 0
@@ -251,7 +251,7 @@
 55D:\Studing_IT\GOIT\goit-js-hw-08\src\sass\_example.scss133083245861284066 0
 101D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133083250286021145 0
 80D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\watcher\src\unix\legacy.cc133083250285322740 0
-51D:\Studing_IT\GOIT\goit-js-hw-08\src\js\02-video.js133083406941621449 0
+51D:\Studing_IT\GOIT\goit-js-hw-08\src\js\02-video.js133083413434496928 0
 89D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\hash\parcel-hash.linux-x64-gnu.node133083250287790474 0
 72D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\lmdb\util\RangeIterable.js133083250289802067 0
 79D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\core\lib\public\Bundle.js133083250287470466 0
@@ -1652,7 +1652,7 @@
 62D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\semver\semver.js133083250283090187 0
 62D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\semver\README.md133083250284472742 0
 65D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@lezer\lr\README.md133083250284216007 0
-69D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\native-promise-only\lib133083291283888805 1
+69D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\native-promise-only\lib133083291283898848 1
 107D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\package-manager\test\fixtures\packages\a\package.json133083250288030462 0
 60D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\sass\README.md133083250288530985 0
 64D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\parse-json\license133083250281082116 0
@@ -1709,7 +1709,7 @@
 87D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\optimizer-image\lib\loadNative.js133083250282204284 0
 81D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\nan\nan_implementation_pre_12_inl.h133083250284872754 0
 67D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\escalade\package.json133083250282920188 0
-58D:\Studing_IT\GOIT\goit-js-hw-08\dist\02-video.a74b541c.js133083405403367667 0
+58D:\Studing_IT\GOIT\goit-js-hw-08\dist\02-video.a74b541c.js133083413435556297 0
 74D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\nth-check\lib\parse.d.ts.map133083250286241155 0
 66D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\globals\globals.json133083250282264267 0
 78D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\sass\types\legacy\exception.d.ts133083250288698191 0
@@ -4794,7 +4794,7 @@
 64D:\Studing_IT\GOIT\goit-js-hw-08\dist\01-gallery.53390864.js.map133083373496473455 0
 65D:\Studing_IT\GOIT\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133083373496313451 0
 53D:\Studing_IT\GOIT\goit-js-hw-08\dist\01-gallery.html133083373496443458 0
-62D:\Studing_IT\GOIT\goit-js-hw-08\dist\02-video.a74b541c.js.map133083405403377667 0
+62D:\Studing_IT\GOIT\goit-js-hw-08\dist\02-video.a74b541c.js.map133083413435586299 0
 65D:\Studing_IT\GOIT\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133083373496313451 0
 62D:\Studing_IT\GOIT\goit-js-hw-08\dist\03-feedback.ba2d0753.css133083373496443458 0
 66D:\Studing_IT\GOIT\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133083373496443458 0

@@ -10,7 +10,7 @@ const player = new Player(iframe);
 if (Storage.load(LOCAL_STORAGE_KEY)) {
     const { time } = Storage.load(LOCAL_STORAGE_KEY);
 
-    player.setCurrentTime(time).then(function (seconds) {}).catch(function(error) {
+    player.setCurrentTime(time).catch(function(error) {
         switch (error.name) {
             case 'RangeError':
                 break;
