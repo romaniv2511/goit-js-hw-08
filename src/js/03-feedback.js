@@ -5,7 +5,7 @@ const formRef = document.querySelector('.feedback-form');
 const LOCAL_STORAGE = "feedback-form-state";
 const formData = {};
 
-initPage();
+startPage();
 
 const onFormInput = e => {
     const { name, value } = e.target;
@@ -18,16 +18,17 @@ const throttedOnFormInput = throttle(onFormInput, 500);
 
 formRef.addEventListener('input', throttedOnFormInput);
 
-
-function initPage() {
-    const parseData = storage.load(LOCAL_STORAGE);
-    if (!LOCAL_STORAGE) {
+function startPage() {
+    const loadData = storage.load(LOCAL_STORAGE);
+    if (!loadData) {
         return;
     }
-    Object.entries(parseData).forEach(( [name, value] ) => {
+    Object.entries(loadData).forEach(([name, value]) => {
         formRef.elements[name].value = value;
     });
+    
 }
+
 
 
 const onFormSubmit = e => { 
