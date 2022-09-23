@@ -107,7 +107,7 @@
 63D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@msgpackr-extract133084069370540830 1
 77D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\workers\src\cpuCount.js133084069359285587 0
 92D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\lmdb\node_modules\node-addon-api\noexcept.gypi133084069357269574 0
-37D:\Studing_IT\GOIT\goit-js-hw-08\dist133084192669561580 1
+37D:\Studing_IT\GOIT\goit-js-hw-08\dist133084204667492577 1
 90D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@vimeo\player\src\lib\compatibility-check.js133084069359813808 0
 66D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\posthtml-render\dist133084069357817745 1
 73D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@lezer\common\dist\mix.d.ts133084069358577939 0
@@ -263,7 +263,7 @@
 78D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\yaml\dist\PlainValue-ec8e588e.js133084069360810477 0
 90D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\transformer-html\lib\dependencies.js133084069355266870 0
 85D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\core\src\dumpGraphToGraphViz.js133084069362413202 0
-54D:\Studing_IT\GOIT\goit-js-hw-08\src\js\03-feedback.js133084076425470674 0
+54D:\Studing_IT\GOIT\goit-js-hw-08\src\js\03-feedback.js133084204666326140 0
 57D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@jridgewell133084069342027232 1
 82D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\README.md133084069360979907 0
 80D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\package-manager\src\Npm.js133084069360989877 0
@@ -2791,7 +2791,7 @@
 71D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\dotenv-expand\lib\main.js133084069357757942 0
 77D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\caniuse-lite\data\regions\BG.js133084069362423165 0
 68D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\@parcel\types\index.js133084069356344892 0
-61D:\Studing_IT\GOIT\goit-js-hw-08\dist\03-feedback.5440b4f4.js133084185446620024 0
+61D:\Studing_IT\GOIT\goit-js-hw-08\dist\03-feedback.5440b4f4.js133084204667463016 0
 71D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\dotenv\lib\cli-options.js133084069357837672 0
 71D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\dotenv\lib\env-options.js133084069358056943 0
 62D:\Studing_IT\GOIT\goit-js-hw-08\node_modules\domutils\LICENSE133084069354726989 0
@@ -4800,7 +4800,7 @@
 65D:\Studing_IT\GOIT\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133084185446480486 0
 53D:\Studing_IT\GOIT\goit-js-hw-08\dist\01-gallery.html133084185446530293 0
 62D:\Studing_IT\GOIT\goit-js-hw-08\dist\02-video.a74b541c.js.map133084192669561580 0
-65D:\Studing_IT\GOIT\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133084185446629996 0
+65D:\Studing_IT\GOIT\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133084204667472534 0
 62D:\Studing_IT\GOIT\goit-js-hw-08\dist\03-feedback.ba2d0753.css133084185446311045 0
 66D:\Studing_IT\GOIT\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133084185446370862 0
 67D:\Studing_IT\GOIT\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133084185446370862 0

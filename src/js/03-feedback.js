@@ -3,15 +3,19 @@ import storage from './storage';
 
 const formRef = document.querySelector('.feedback-form');
 const LOCAL_STORAGE = "feedback-form-state";
-const formData = {};
 
 startPage();
 
 const onFormInput = e => {
     const { name, value } = e.target;
-    formData[name] = value;
 
-    storage.save(LOCAL_STORAGE, formData);
+
+    let savedData = storage.load(LOCAL_STORAGE);
+    savedData = savedData ? savedData : {};
+
+    savedData[name] = value;
+
+    storage.save(LOCAL_STORAGE, savedData);
     
 }
 const throttedOnFormInput = throttle(onFormInput, 500);
@@ -19,11 +23,11 @@ const throttedOnFormInput = throttle(onFormInput, 500);
 formRef.addEventListener('input', throttedOnFormInput);
 
 function startPage() {
-    const loadData = storage.load(LOCAL_STORAGE);
-    if (!loadData) {
+    const loadedData = storage.load(LOCAL_STORAGE);
+    if (!loadedData) {
         return;
     }
-    Object.entries(loadData).forEach(([name, value]) => {
+    Object.entries(loadedData).forEach(([name, value]) => {
         formRef.elements[name].value = value;
     });
     
